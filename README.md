@@ -8,6 +8,7 @@
 - Currently studying Software Engineering with C# at the Software University Sofia
 - Email: georgi.d.gradev@gmail.com
 - Facebook: https://www.facebook.com/joro.gradev
+- Twitter: <a href="https://twitter.com/georgi__gradev">@gradevgeorgi</a> 
 
 ## My Repos
 
