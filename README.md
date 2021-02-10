@@ -12,3 +12,4 @@
 ## My Repos
 
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=SoftUni&show_owner=true)](https://github.com/GeorgiGradev/SoftUni)
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=FreeCodeCamp&show_owner=true)](https://github.com/GeorgiGradev/FreeCodeCamp)
