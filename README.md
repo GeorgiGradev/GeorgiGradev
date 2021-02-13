@@ -6,12 +6,12 @@
 </div>
 
 - 🌱 Currently studying Software Engineering with C# at the Software University in Sofia, Bulgaria
-- 📫 Email: georgi.d.gradev@gmail.com
-- 📫 Facebook: <a href="https://www.facebook.com/joro.gradev">@joro.gradev</a>    
+- :e-mail: Email: georgi.d.gradev@gmail.com
+- 📘 Facebook: <a href="https://www.facebook.com/joro.gradev">@joro.gradev</a>    
 - 📫 Instagram: <a href="https://www.instagram.com/joro.gradev">@joro.gradev</a>   
 - 📫 Twitter: <a href="https://twitter.com/georgi__gradev">@gradevgeorgi</a> 
 
-|**Courses**|:scroll:| 
+|💻**Courses**|:scroll:| 
 |---|---|
 |<a href="https://softuni.bg/trainings/2768/programming-basics-with-c-sharp-february-2020" > Programming Basics </a>   | <a href="https://softuni.bg/certificates/details/78269/a530cc62"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/2830/csharp-fundamentals-may-2020"> Programming Fundamentals </a>| <a href="https://softuni.bg/certificates/details/86139/e3e9bca2"> :heavy_check_mark: Certificate</a> |
