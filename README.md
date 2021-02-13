@@ -20,8 +20,10 @@
 **Languages**  
 
 <code><img height="40" src="https://ctl.s6img.com/society6/img/nV1AknlqVm6ykWmiFTdjq2z-dIs/w_1500/prints/~artwork/s6-original-art-uploads/society6/uploads/misc/6668936326d74c3a8bf31df3bc0430eb"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
 <code><img height="40" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/124446395/original/b68691adbfd454ea4173b4f213f9b7b11a5c426e/create-er-diagrams-develop-database-offer-tech-support.png"></code>
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTnlf8RZSA2jnQPDUql_UmSztuFLmp8U6h2A&usqp=CAU"></code>
+
 
 |💻**Courses**|:scroll:| 
 |---|---|
