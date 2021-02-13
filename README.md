@@ -21,6 +21,8 @@
 |<a href="https://softuni.bg/trainings/3221/entity-framework-core-february-2021"> Entity Framework Core </a>| <a href=""> Certificate</a> |
 |<a href=""> C# Web Basics </a>| <a href=""> Certificate</a> |
 |<a href=""> ASP.NET Core </a>| <a href=""> Certificate</a> |
+|<a href=""> JS Advanced </a>| <a href=""> Certificate</a> |
+|<a href=""> JS Applications </a>| <a href=""> Certificate</a> |
 
 ## My Repos ## 
 
