@@ -20,7 +20,7 @@
 **Languages**  
 
 <code><img height="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
+<code><img height="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s--uyi8FNan--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://d33wubrfki0l68.cloudfront.net/871521ecc315b651de02bb4b69804ae2dfb34f12/9281b/images/blog/javascript-logo.png"></code>
 <code><img height="40" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/124446395/original/b68691adbfd454ea4173b4f213f9b7b11a5c426e/create-er-diagrams-develop-database-offer-tech-support.png"></code>
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTnlf8RZSA2jnQPDUql_UmSztuFLmp8U6h2A&usqp=CAU"></code>
 
