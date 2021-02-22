@@ -5,7 +5,7 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiGradev&layout=compact" />
 </div>
 
-- 🌱 Currently studying Software Engineering with C# and Java Script at the Software University in Sofia, Bulgaria
+- 🌱 Currently studying Software Engineering with C# and Java Script at the Software University
 - 💌 Email: georgi.d.gradev@gmail.com
 - 🐋 Twitter: <a href="https://twitter.com/georgi__gradev">@gradevgeorgi</a> 
 
