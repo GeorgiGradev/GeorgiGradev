@@ -7,8 +7,6 @@
 
 - 🌱 Currently studying Software Engineering with C# and Java Script at the Software University in Sofia, Bulgaria
 - 💌 Email: georgi.d.gradev@gmail.com
-- 📘 Facebook: <a href="https://www.facebook.com/joro.gradev">@joro.gradev</a>    
-- 📸  Instagram: <a href="https://www.instagram.com/joro.gradev">@joro.gradev</a>   
 - 🐋 Twitter: <a href="https://twitter.com/georgi__gradev">@gradevgeorgi</a> 
 
 
