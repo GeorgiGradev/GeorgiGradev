@@ -7,7 +7,6 @@
 
 - 🌱 Currently studying Software Engineering with C# and Java Script at the Software University
 - 💌 Email: georgi.d.gradev@gmail.com
-- 🐋 Twitter: <a href="https://twitter.com/georgi__gradev">@gradevgeorgi</a> 
 
 
 ## My Repos ## 
