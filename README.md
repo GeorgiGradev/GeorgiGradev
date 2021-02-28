@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Georgi! ###
+### Hi there 👋, I am Georgi! ###
 
 <div>
   <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=GeorgiGradev&count_private=true&true&hide=issues&show_icons=true" />
