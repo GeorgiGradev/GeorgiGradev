@@ -15,6 +15,7 @@
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=SoftwareUniversity&show_owner=false)](https://github.com/GeorgiGradev/SoftwareUniversity)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=MyApplications&show_owner=false)](https://github.com/GeorgiGradev/MyApplications)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=FreeCodeCamp&show_owner=false)](https://github.com/GeorgiGradev/FreeCodeCamp)
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=FreeCodeCamp&show_owner=false)](https://github.com/GeorgiGradev/HTML_CSS)
 
 **Languages**  
 
