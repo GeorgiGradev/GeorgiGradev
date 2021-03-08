@@ -14,7 +14,7 @@
 
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=SoftwareUniversity&show_owner=false)](https://github.com/GeorgiGradev/SoftwareUniversity)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=HTML_CSS&show_owner=false)](https://github.com/GeorgiGradev/HTML_CSS)
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=MyApplications&show_owner=false)](https://github.com/GeorgiGradev/MyApplications)
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=WorkshopProjects&show_owner=false)](https://github.com/GeorgiGradev/WorkshopProjects)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=FreeCodeCamp&show_owner=false)](https://github.com/GeorgiGradev/FreeCodeCamp)
 
 
