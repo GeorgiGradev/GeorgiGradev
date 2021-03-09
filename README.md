@@ -7,7 +7,7 @@
 
 - 🌱 Currently studying Software Engineering with C# and Java Script at the Software University
 - 💌 Email: georgi.d.gradev@gmail.com
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/georgi-gradev-98b46b207/">georgi-gradev</a>  
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/georgi-gradev-98b46b207/">GeorgiGradev</a>  
 
 
 ## My Repos ## 
