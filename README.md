@@ -12,7 +12,6 @@
 
 ## My Repos ## 
 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=SoftwareUniversity&show_owner=false)](https://github.com/GeorgiGradev/SoftwareUniversity)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=HTML_CSS&show_owner=false)](https://github.com/GeorgiGradev/HTML_CSS)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=MyProjects&show_owner=false)](https://github.com/GeorgiGradev/WorkshopProjects)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=FreeCodeCamp&show_owner=false)](https://github.com/GeorgiGradev/FreeCodeCamp)
