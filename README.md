@@ -11,6 +11,7 @@
 
 
 ## My Repos ## 
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=MyFitnessApp&show_owner=false)](https://github.com/GeorgiGradev/MyFitnessApp)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=CSharp_Web&show_owner=false)](https://github.com/GeorgiGradev/CSharp-Web)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=FrontEnd&show_owner=false)](https://github.com/GeorgiGradev/HTML_CSS)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=CSharp_DataBases&show_owner=false)](https://github.com/GeorgiGradev/CSharp_DataBases)
