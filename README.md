@@ -14,7 +14,7 @@
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=MyFitnessApp&show_owner=false)](https://github.com/GeorgiGradev/MyFitnessApp)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=JavaScript&show_owner=false)](https://github.com/GeorgiGradev/JavaScript)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=CSharp_Web&show_owner=false)](https://github.com/GeorgiGradev/CSharp-Web)
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=FrontEnd&show_owner=false)](https://github.com/GeorgiGradev/HTML_CSS)
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=HTML_CSS&show_owner=false)](https://github.com/GeorgiGradev/HTML_CSS)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=CSharp_DataBases&show_owner=false)](https://github.com/GeorgiGradev/CSharp_DataBases)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=CSharp_OOP&show_owner=false)](https://github.com/GeorgiGradev/CSharp_OOP)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=SoftwareUniversity&show_owner=false)](https://github.com/GeorgiGradev/SoftwareUniversity)
