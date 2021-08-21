@@ -46,3 +46,4 @@
 |<a href="https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021"> ASP.NET Core </a>| <a href=""> Certificate</a> |
 |<a href=""> JS Advanced </a>| <a href=""> Certificate</a> |
 |<a href=""> JS Applications </a>| <a href=""> Certificate</a> |
+|<a href=""> ReactJS </a>| <a href=""> Certificate</a> |
