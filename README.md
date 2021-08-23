@@ -46,4 +46,4 @@
 |<a href="https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021"> ASP.NET Core </a>| <a href=""> Certificate</a> |
 |<a href="https://softuni.bg/trainings/3487/js-advanced-may-september-2021"> JS Advanced </a>| <a href=""> Certificate</a> |
 |<a href="https://softuni.bg/trainings/3488/js-applications-october-2021"> JS Applications </a>| <a href=""> Certificate</a> |
-|<a href=""> ReactJS </a>| <a href=""> Certificate</a> |
+|<a href="https://softuni.bg/trainings/3497/reactjs-november-2021#lesson-31770"> ReactJS </a>| <a href=""> Certificate</a> |
