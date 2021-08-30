@@ -44,6 +44,6 @@
 |<a href="https://softuni.bg/trainings/3221/entity-framework-core-february-2021"> Entity Framework Core </a>| <a href="https://softuni.bg/certificates/details/102585/6e49f8fd">  :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3353/csharp-web-basics-basics-may-2021"> C# Web Basics </a>| <a href="https://softuni.bg/certificates/details/109530/00f444f9">  :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021"> ASP.NET Core </a>| <a href=""> Certificate</a> |
-|<a href="https://softuni.bg/trainings/3487/js-advanced-may-september-2021"> JS Advanced </a>| <a href=""> Certificate</a> |
+|<a href="https://softuni.bg/trainings/3487/js-advanced-september-2021"> JS Advanced </a>| <a href=""> Certificate</a> |
 |<a href="https://softuni.bg/trainings/3488/js-applications-october-2021"> JS Applications </a>| <a href=""> Certificate</a> |
-|<a href="https://softuni.bg/trainings/3497/reactjs-november-2021#lesson-31770"> ReactJS </a>| <a href=""> Certificate</a> |
+|<a href="https://softuni.bg/trainings/3497/reactjs-november-2021"> ReactJS </a>| <a href=""> Certificate</a> |
