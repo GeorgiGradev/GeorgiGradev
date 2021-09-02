@@ -8,7 +8,7 @@
 - 🌱 Currently studying Software Engineering with C# and Java Script at the Software University
 - 💌 Email: georgi.d.gradev@gmail.com
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/georgi-gradev-98b46b207/">GeorgiGradev</a>  
-
+- 💻 Latest project: <a href="https://myfitness-app.azurewebsites.net/">MyFitnessApp</a>  
 
 ## My Repos ## 
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=MyFitnessApp&show_owner=false)](https://github.com/GeorgiGradev/MyFitnessApp)
