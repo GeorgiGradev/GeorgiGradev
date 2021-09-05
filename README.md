@@ -20,19 +20,11 @@
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=SoftwareUniversity&show_owner=false)](https://github.com/GeorgiGradev/SoftwareUniversity)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=FreeCodeCamp&show_owner=false)](https://github.com/GeorgiGradev/FreeCodeCamp)
 
-
-
-
 **Languages**  
-
 <code><img height="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
 <code><img height="40" src="https://pbs.twimg.com/profile_images/378800000539531860/2c45151a4a11d3a3c8e71bb34dd069d6.png"></code>
 <code><img height="40" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/124446395/original/b68691adbfd454ea4173b4f213f9b7b11a5c426e/create-er-diagrams-develop-database-offer-tech-support.png"></code>
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTnlf8RZSA2jnQPDUql_UmSztuFLmp8U6h2A&usqp=CAU"></code>
-
-
-
-
 
 |💻**Courses**|:scroll:| 
 |---|---|
