@@ -40,3 +40,4 @@
 |<a href="https://softuni.bg/trainings/3211/js-fundamentals-january-2021"> JS Fundamentals </a>| <a href="https://softuni.bg/trainings/3211/js-fundamentals-january-2021"> :heavy_check_mark: Self-education</a> |
 |<a href="https://softuni.bg/trainings/3487/js-advanced-september-2021"> JS Advanced </a>| <a href="https://softuni.bg/certificates/details/114820/753d1216"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3488/js-applications-october-2021"> JS Applications </a>| <a href=""> Certificate</a> |
+|<a href="https://softuni.bg/trainings/3575/reactjs-november-2021"> ReactJS </a>| <a href=""> Certificate</a> |
