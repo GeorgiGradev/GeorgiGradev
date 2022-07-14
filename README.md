@@ -20,7 +20,6 @@
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=CSharp_DataBases&show_owner=false)](https://github.com/GeorgiGradev/CSharp_DataBases)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=CSharp_OOP&show_owner=false)](https://github.com/GeorgiGradev/CSharp_OOP)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=SoftwareUniversity&show_owner=false)](https://github.com/GeorgiGradev/SoftwareUniversity)
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=FreeCodeCamp&show_owner=false)](https://github.com/GeorgiGradev/FreeCodeCamp)
 
 **Languages**  
 <code><img height="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
