@@ -12,7 +12,6 @@
 ## My Repos ## 
 
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=MyFitnessApp&show_owner=false)](https://github.com/GeorgiGradev/MyFitnessApp)
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=InvoiceManagementSystem&show_owner=false)](https://github.com/GeorgiGradev/InvoiceManagementSystem)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=ReactJS&show_owner=false)](https://github.com/GeorgiGradev/ReactJS)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=JavaScript&show_owner=false)](https://github.com/GeorgiGradev/JavaScript)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiGradev&repo=CSharp_Web&show_owner=false)](https://github.com/GeorgiGradev/CSharp-Web)
