@@ -6,8 +6,7 @@
 </div>
 
 - 💌 Email: georgi.d.gradev@gmail.com
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/georgi-gradev-98b46b207/">GeorgiGradev</a>  
-- 💻 ASP.NET Core ready to use application: <a href="https://myfitness-app.azurewebsites.net/">MyFitnessApp</a>  
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/georgi-gradev-98b46b207/">GeorgiGradev</a>
 
 ## My Repos ## 
 
