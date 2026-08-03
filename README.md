@@ -1,6 +1,6 @@
 # Hi there👋
 
-### 🚀 My name is Georgi and I am Software Developer & Team Lead
+### 🚀 My name is Georgi and I am a Software Developer & Team Lead
 I specialize in building scalable backend systems with **.NET**, designing modern **AI Agentic frameworks**, and integrating privacy-first, on-premise **LLM/RAG solutions**.
 
 ---
@@ -13,7 +13,7 @@ I specialize in building scalable backend systems with **.NET**, designing moder
 [![MyFitnessApp-AI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GeorgiGradev&repo=MyFitnessApp-AI&theme=monokai)](https://github.com/GeorgiGradev/MyFitnessApp-AI)
 > **MyFitnessApp-AI:** Next-gen fitness tracking solution integrating generative AI & smart algorithms for automated insights and personalized recommendations.
 
-[![discord-ai-agent](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GeorgiGradev&repo=discord-ai-agent&theme=monokai)](https://github.com/GeorgiGradev/discord-ai-agent)
+[![Discord-AI-Agent](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GeorgiGradev&repo=discord-ai-agent&theme=monokai)](https://github.com/GeorgiGradev/discord-ai-agent)
 > **Discord-AI-Agent:** Intelligent, event-driven AI agent built for Discord, focusing on automated workflow assistance, custom LLM integration, and real-time interaction.
 
 
